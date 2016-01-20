@@ -1,0 +1,223 @@
+body {    
+    background-color: #CCFFFF;
+    font-size: medium;
+    font-family: Comic, "Comic Sans MS", Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    margin: 10px;
+}
+
+table.motto {    
+    width: 800px;
+    text-align: center;
+}
+
+table.menu {
+    width: 800px;
+    text-align: left;
+    background-color: darkmagenta; 
+    color: #CCFFFF;
+    border-collapse: collapse;
+}
+
+table.menu td.menu133 {
+    width: 133px;
+}
+
+table.menu td.menu134 {
+    width: 134px;
+}
+
+a.menu {
+    color: #CCFFFF;
+    text-decoration: none;
+}
+
+a {
+    color: darkmagenta;
+}
+
+table.content {    
+    width: 800px;
+    border-collapse: collapse;    
+}
+
+.h50 {    
+    height: 50px;
+}
+
+.left {
+    width: 180px;
+    border-collapse: collapse;
+}
+
+.right {    
+    width: 180px;
+    border-collapse: collapse;
+}
+
+.center {
+    width: 430px;
+    text-align: center;
+}
+
+.large {    
+    width: 115px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.short {    
+    width: 60px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.dark {    
+    background-color: darkmagenta; 
+    color: #CCFFFF;
+}
+
+a.dark {    
+    color: #CCFFFF;    
+}
+
+a.akce {    
+    color: #CCFFFF;    
+}
+
+.light {    
+    background-color: #CCFFFF; 
+    color: black;    
+}
+
+a.light {    
+    color: darkmagenta;
+    text-decoration: none;    
+}
+
+.smaller {    
+    font-size: 8px;
+}
+
+.small {    
+    font-size: 10px;
+}
+
+.text {
+    font-size: 12px;
+}
+
+h1 {
+    font-size:  24px;
+    font-family: Comic, "Comic Sans MS", Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;   
+    color: darkmagenta;
+    font-style: italic;
+}
+
+h2 {
+    font-size:  22px;
+    font-family: Comic, "Comic Sans MS", Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    color: darkmagenta;
+    font-style: italic;
+    margin: 0px;
+}
+
+h3 {
+    font-size:  20px;
+    font-family: Comic, "Comic Sans MS", Comic Sans MS, Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    color: darkmagenta;
+    font-style: italic;
+    margin: 0px;
+}
+
+h4 {
+    font-size:  18px;
+    font-family: Comic Sans MS, Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    color: darkmagenta;
+    font-style: italic;
+    margin: 0px;
+}
+
+h5 {
+    font-size:  16px;
+    font-family: Comic Sans MS, Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    color: darkmagenta;
+    font-style: italic;
+    margin: 0px;
+}
+
+h6 {
+    font-size:  14px;
+    font-family: Comic Sans MS, Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    color: darkmagenta;
+    font-style: italic;
+    margin: 0px;
+}
+
+h1.dark {
+    font-size:  24px;
+    font-family: Comic, "Comic Sans MS", Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;   
+    color: #CCFFFF;
+    font-style: italic;
+}
+
+h2.dark {
+    font-size:  22px;
+    font-family: Comic, "Comic Sans MS", Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    color: #CCFFFF;
+    font-style: italic;
+    margin: 0px;
+}
+
+h3.dark {
+    font-size:  20px;
+    font-family: Comic, "Comic Sans MS", Comic Sans MS, Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    color: #CCFFFF;
+    font-style: italic;
+    margin: 0px;
+}
+
+h4.dark {
+    font-size:  18px;
+    font-family: Comic Sans MS, Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    color: #CCFFFF;
+    font-style: italic;
+    margin: 0px;
+}
+
+h5.dark {
+    font-size:  16px;
+    font-family: Comic Sans MS, Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    color: #CCFFFF;
+    font-style: italic;
+    margin: 0px;
+}
+
+h6.dark {
+    font-size:  14px;
+    font-family: Comic Sans MS, Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    color: #CCFFFF;
+    font-style: italic;
+    margin: 0px;
+}
+
+table.zapati {    
+    width: 800px;
+    border-collapse: collapse;
+}
+
+.koukam {    
+    width: 575px;
+    border-collapse: collapse;
+    text-align: left;
+    background-color: darkmagenta; 
+    color: #CCFFFF;
+}
+
+.odkazy {    
+    width: 90px;
+    height: 100px;
+    border-collapse: collapse;
+    text-align: left; 
+}
+
+.mamutlight{color:#FFF !important;background-color:#CCFFFF !important}

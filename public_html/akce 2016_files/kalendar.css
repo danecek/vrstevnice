@@ -1,0 +1,186 @@
+body {
+    background-color: #CCFFFF;
+    font-size: 12px;
+    font-family: Comic, "Comic Sans MS", Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    margin: 10px;
+}
+
+p {
+    margin: 5px;
+}
+
+h2 {
+    font-size:  22px;
+    font-family: Comic, "Comic Sans MS", Verdana, "Verdana CE",  Arial, "Arial CE", "Lucida Grande CE", lucida, "Helvetica CE", sans-serif;
+    color: darkmagenta;
+    font-style: italic;    
+}
+
+table.zahlavi {    
+    width: 800px;
+    text-align: right;
+}
+
+table.uvod {    
+    width: 800px;
+}
+
+table.mesic {
+    width: 800px;        
+}
+
+table.mesic td.left {    
+    width: 392px;
+    height: 20px;
+    background-color: darkmagenta;    
+    font-weight: bold;    
+    font-style: italic;
+    color: #CCFFFF;
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkmagenta;
+    text-align: center;
+}
+
+table.mesic td.stred {    
+    width: 16px;
+}
+
+table.mesic td.right {    
+    width: 392px;
+    height: 20px;
+    background-color: darkmagenta;    
+    font-weight: bold;    
+    font-style: italic;
+    color: #CCFFFF;
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkmagenta;
+    text-align: center;
+}
+
+table.kalendar {    
+    width: 800px;
+}
+
+table.kalendar th {
+    width: 56px;
+    height: 20px;
+    font-size: x-small;
+    font-weight: bold;
+    color: darkmagenta;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkmagenta;
+}
+
+table.kalendar tr.tyden th.stred {    
+    width: 16px;
+}
+
+table.kalendar td.datum {
+    border-width: 1px;
+    border-style: solid;
+    border-color: darkmagenta;
+}
+
+table.kalendar tr.dny td {
+    width: 56px;
+    font-size: xx-small;    
+    color: darkmagenta;
+    text-align: center;
+}
+
+table.kalendar tr td.akce {    
+    width: 56px;
+    font-size: xx-small;
+    color: #CCFFFF;
+    background-color: darkmagenta;
+    text-align: center;    
+}
+
+table.kalendar tr td.akce2 {    
+    width: 112px;
+    font-size: xx-small;
+    color: #CCFFFF;
+    background-color: darkmagenta;
+    text-align: center;    
+}
+
+table.kalendar tr td.akce3 {    
+    width: 168px;
+    font-size: xx-small;
+    color: #CCFFFF;
+    background-color: darkmagenta;
+    text-align: center;    
+}
+
+table.kalendar tr td.akce4 {    
+    width: 224px;
+    font-size: xx-small;
+    color: #CCFFFF;
+    background-color: darkmagenta;
+    text-align: center;    
+}
+
+table.kalendar tr td.akce5 {    
+    width: 280px;
+    font-size: xx-small;
+    color: #CCFFFF;
+    background-color: darkmagenta;
+    text-align: center;    
+}
+
+table.kalendar tr td.akce6 {    
+    width: 336px;
+    font-size: xx-small;
+    color: #CCFFFF;
+    background-color: darkmagenta;
+    text-align: center;    
+}
+
+table.kalendar tr td.akce7 {    
+    width: 392px;
+    font-size: xx-small;
+    color: #CCFFFF;
+    background-color: darkmagenta;
+    text-align: center;    
+}
+
+table.zaver {    
+    width: 800px;
+    font-size: small;
+}
+
+table.zapati {    
+    width: 800px;    
+}
+
+table.zapati td.left {    
+    width: 400px;    
+}
+
+table.zapati td.right {    
+    width: 400px;
+    color: darkmagenta;
+    font-size: small;
+}
+
+a {
+    color: darkmagenta;
+}
+
+a.akce {    
+    color: #CCFFFF;
+}
+
+a.bold {    
+    font-weight: bold;
+    color: darkmagenta;
+}
+
+.bold {    
+    font-weight: bold;
+    color: darkmagenta;
+}
